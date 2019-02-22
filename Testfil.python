@@ -19,3 +19,5 @@ List the files you've changed and those you still need to add or commit: git sta
 Switch from one branch to another: git checkout <branchname>
 List all the branches in your repo, and also tell you what branch you're currently in: git branch
 Fetch and merge changes on the remote server to your working directory: git pull
+
+Testar att ändra med en användare som inte är godkänd.
